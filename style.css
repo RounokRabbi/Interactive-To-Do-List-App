@@ -116,7 +116,7 @@ ul li::before {
 }
 
 ul li.checked {
-    color: #555;
+    color: #d10f0f;
     text-decoration: line-through;
 }
 
@@ -131,7 +131,7 @@ ul li span {
     width: 40px;
     height: 40px;
     font-size: 22px;
-    color: #555;
+    color: #faf5f5;
     line-height: 40px;
     text-align: center;
     border-radius: 50%;
